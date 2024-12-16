@@ -5,3 +5,5 @@ class User:
         self.is_client=is_client
         self.passwoerd=password
         self.ad=[]
+class DOKON:
+    pass
