@@ -7,6 +7,5 @@ class User:
         self.ad=[]
 class Dokon:
     pass
-
 class Maxsulot:
     pass
