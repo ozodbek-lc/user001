@@ -4,7 +4,6 @@ class User:
         self.is_admin=is_admin
         self.is_client=is_client
         self.passwoerd=password
-        self.ad=[]
 class Dokon:
     pass
 class Maxsulot:
