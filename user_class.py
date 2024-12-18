@@ -1,4 +1,4 @@
-
+# Nurullo_choriyev
 class USER:
     def __init__(self,tel_nomer,kartasi,passwort,balans,client):
         self.tel_nomer=tel_nomer
