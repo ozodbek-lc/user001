@@ -11,3 +11,4 @@ mahsulot3=Mahsulotlar("sabzi",5000,"6 oy")
 mahsulot4=Mahsulotlar("piyoz",5000,"8 oy")
 mahsulot5=Mahsulotlar("nok",20000,"3 oy")
 mahsulot6=Mahsulotlar("mandarin",35000,"1 oy")
+maxsulot=[mahsulot6,mahsulot5,mahsulot4,mahsulot3,mahsulot1,mahsulot2]
