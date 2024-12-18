@@ -6,4 +6,4 @@ class Dokon:
         self.maxsulot_baza=[]
 
     def info_dokon(self):
-        return f"nomi : {self.nomi}\n"
+        return f"nomi : {self.nomi}\nJoylashuv"
