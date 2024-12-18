@@ -1,4 +1,4 @@
-q# Nurullo_choriyev
+# Nurullo_choriyev
 class Mahsulotlar:
     def __init__(self,nomi, narxi,mudati):
         self.nomi=nomi
